@@ -2,7 +2,7 @@
 
 ## About MindFusion.Keyboard
 
-MindFusion **JavaScript virtual keyboard** is written entirely in **JavaScript** and extends your application with keyboard functionality similar to that of touch-screen and mobile devices. The library gives you a fast and easy way to implement:
+MindFusion's [JavaScript Virtual Keyboard Library](https://mindfusion.dev/javascript-keyboard.html), a part of [MindFusion.JavaScript Pack](https://mindfusion.dev/javascript-pack.html), is written entirely in **JavaScript** and extends your application with keyboard functionality similar to that of touch-screen and mobile devices. The library gives you a fast and easy way to implement:
 
 *   **text input** in a keyboardless environment;
 *   **kiosk or POS user interfaces** with a limited number of input keys;
@@ -21,6 +21,10 @@ To run the samples locally:
 
 1.  Navigate to the project root directory: `D:\Projects\GitHub\JavaScript.Keyboard`
 2.  Run `npm start` in your terminal. This will launch a local web server and open the samples in your default browser.
+
+## Virtual Keyboard Creator
+
+Create and export a custom layout for your keyboard in an easy and intuitive way with the [free online Virtual Keyboard Creator tool.](https://mindfusion.dev/virtual-keyboard-creator/index.html)
 
 ## Features
 
